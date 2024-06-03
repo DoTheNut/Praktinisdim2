@@ -1,0 +1,17 @@
+<students>
+    <student>
+        <name>Rangas Tomas</name>
+        <age>20</age>
+        <score>85.5</score>
+    </student>
+    <student>
+        <name>Danas Bruisys</name>
+        <age>22</age>
+        <score>90.0</score>
+    </student>
+    <student>
+        <name>Vakaris Stankus</name>
+        <age>22</age>
+        <score>84.1</score>
+    </student>
+</students>
